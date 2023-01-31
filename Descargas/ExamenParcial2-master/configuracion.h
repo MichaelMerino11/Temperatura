@@ -29,6 +29,8 @@ private slots:
 
     void on_inDimension_sliderReleased();
 
+    void on_btnColor_clicked();
+
 private:
     Ui::Configuracion *ui;
     QColor m_color;

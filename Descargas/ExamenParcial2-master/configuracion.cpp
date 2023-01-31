@@ -59,3 +59,9 @@ void Configuracion::on_inDimension_sliderReleased(){
 }
 
 
+
+void Configuracion::on_btnColor_clicked()
+{
+
+}
+
